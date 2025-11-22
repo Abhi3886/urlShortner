@@ -2,6 +2,14 @@
   "name": "urlshortner",
   "version": "1.0.0",
   "description": "url shortner beckend",
+  "homepage": "https://github.com/Abhi3886/urlShortner#readme",
+  "bugs": {
+    "url": "https://github.com/Abhi3886/urlShortner/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhi3886/urlShortner.git"
+  },
   "license": "ISC",
   "author": "Abhishek Agrawal",
   "type": "commonjs",
@@ -14,6 +22,7 @@
     "express": "^5.1.0",
     "mysql2": "^3.15.3",
     "nanoid": "^5.1.6",
+    "next": "^16.0.3",
     "nodemon": "^3.1.11"
   }
 }
