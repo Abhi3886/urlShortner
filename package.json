@@ -1,0 +1,19 @@
+{
+  "name": "urlshortner",
+  "version": "1.0.0",
+  "description": "url shortner beckend",
+  "license": "ISC",
+  "author": "Abhishek Agrawal",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "run": "nodemon index"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mysql2": "^3.15.3",
+    "nanoid": "^5.1.6",
+    "nodemon": "^3.1.11"
+  }
+}
